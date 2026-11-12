@@ -4,30 +4,32 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A6A6A6&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Building+web+experiences;Turning+ideas+into+working+applications" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harshada-kakade-854964281/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-181818?style=flat-square&logo=leetcode)](https://leetcode.com/u/Harshada9270/)
-[![GitHub](https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github)](https://github.com/harshada9270)
+
+
+
 
 </div>
 
----
+<div align="center">
 
-### About
+ABOUT ME
 
 Building web applications, exploring backend systems, and turning ideas into functional products.
 
+</div>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-**Currently building**
+CURRENTLY BUILDING
 
 Full-stack applications and booking platforms.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-**Currently exploring**
+CURRENTLY EXPLORING
 
 Backend architecture, cloud infrastructure and AI integrations.
 
@@ -35,77 +37,93 @@ Backend architecture, cloud infrastructure and AI integrations.
 </tr>
 </table>
 
-### Experience & Work
+<h3 align="center">EXPERIENCE & WORK</h3>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33.33%" align="center" valign="top">
 
-**GRN Properties**
+GRN Properties
 
 Real Estate Marketplace & CRM
 
-[![LIVE PROJECT](https://img.shields.io/badge/VIEW_LIVE_PROJECT-181818?style=for-the-badge&logo=googlechrome&logoColor=white)](https://grn-properties--gnr-properties.us-central1.hosted.app)
+Full-Stack Development
+
+<a href="https://grn-properties--gnr-properties.us-central1.hosted.app">
+<img src="https://img.shields.io/badge/VISIT_LIVE_PROJECT-252525?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit GRN Properties"/>
+</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="33.33%" align="center" valign="top">
 
-**Artistic Spacez**
+Artistic Spacez
+
+Space Rental & Booking Platform
 
 Freelance Full-Stack Development
 
-Space rental and booking platform.
+<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-252525?style=for-the-badge&logo=react&logoColor=white" alt="Full-stack development"/>
 
 </td>
-</tr>
-<tr>
-<td colspan="2">
+<td width="33.33%" align="center" valign="top">
 
-**Manasvi Tech** · Software Testing
+Manasvi Tech
+
+Software Testing
+
+Quality Assurance
+
+<img src="https://img.shields.io/badge/SOFTWARE_TESTING-252525?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Software testing"/>
 
 </td>
 </tr>
 </table>
 
----
-
-### Technologies I Work With
+<h3 align="center">TECHNOLOGIES</h3>
 
 <div align="center">
 
-**Frontend**
+FRONTEND
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&theme=dark" />
 
-**Backend & Databases**
+BACKEND & DATABASE
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,mysql,firebase,mongodb&theme=dark" />
 
-**Tools & Platforms**
+TOOLS & PLATFORMS
 
 <img src="https://skillicons.dev/icons?i=git,github,aws,vercel,netlify,vscode&theme=dark" />
 
-**AI & Data**
+AI & DATA
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
 
 </div>
 
----
+<h3 align="center">GITHUB ACTIVITY</h3>
 
-### GitHub Activity
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshada9270&show_icons=true&theme=github_dark&hide_border=true" width="100%" alt="GitHub Statistics"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshada9270&layout=compact&theme=github_dark&hide_border=true" width="100%" alt="Most Used Languages"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshada9270&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshada9270&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Harshada9270&theme=github-dark-blue&hide_border=true" width="75%" alt="GitHub Streak"/>
 
-<img src="https://streak-stats.demolab.com?user=Harshada9270&theme=github-dark-blue&hide_border=true" width="70%" />
+<br/>
 
-</div>
-
-<div align="center">
-
-*Always building. Always learning.*
+Always building. Always learning.
 
 </div>
