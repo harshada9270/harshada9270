@@ -117,10 +117,10 @@ Software Testing & Quality Assurance
 <div align="center">
 
 <a href="https://github.com/harshada9270">
-<img src="https://github-readme-stats.vercel.app/api?username=harshada9270&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Statistics"/>
+
 </a>
 <a href="https://github.com/harshada9270">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshada9270&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+
 </a>
 
 <br/><br/>
