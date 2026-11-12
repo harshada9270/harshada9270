@@ -59,7 +59,7 @@ Freelance Full-Stack Development
 
 <br/>
 
-<a href="YOUR_ARTISTIC_SPACEZ_LIVE_URL">
+<a href="https://artistic-spacez--artistic-spacez-dev.asia-southeast1.hosted.app/">
 <img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-252525?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Artistic Spacez"/>
 </a>
 
@@ -109,37 +109,30 @@ Software Testing & Quality Assurance
 
 </div>
 
+
 ---
 
 <h3 align="center">GITHUB ACTIVITY</h3>
 
 <div align="center">
 
-<a href="https://github.com/harshada9270?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-20242D?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/harshada9270">
+<img src="https://github-readme-stats.vercel.app/api?username=harshada9270&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Statistics"/>
 </a>
-
-<a href="https://github.com/harshada9270?tab=overview">
-<img src="https://img.shields.io/badge/VIEW_CONTRIBUTIONS-20242D?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/harshada9270?tab=stars">
-<img src="https://img.shields.io/badge/MY_STARS-20242D?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/harshada9270">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshada9270&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/harshada9270">
-<img src="https://img.shields.io/github/followers/harshada9270?label=Followers&style=flat-square&color=555555" />
-</a>
-
-<a href="https://github.com/harshada9270">
-<img src="https://img.shields.io/github/stars/harshada9270?affiliations=OWNER&style=flat-square&color=555555&label=Stars" />
+<img src="https://streak-stats.demolab.com?user=Harshada9270&theme=github-dark-blue&hide_border=true" width="75%" alt="GitHub Contribution Streak"/>
 </a>
 
 </div>
 
 ---
+
 
 <div align="center">
 
